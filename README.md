@@ -1,10 +1,10 @@
 # Listal Image Batch Downloader
 
-Simple bot to download pictures from [listal](www.listal.com)
+Simple bot to download pictures from [Listal](http://www.listal.com)
 
 ## Setup
 
-You will need to have [NodeJS](nodejs.org) installed to use or develop this.
+You will need to have [NodeJS](https://nodejs.org) installed to use or develop this.
 
 To install as a command line tool, install it globally using NPM.
 
